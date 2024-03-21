@@ -1,0 +1,7 @@
+D:\C# Learn\碁峯\ch03\ConsoleGuessNo\ConsoleGuessNo\bin\Debug\ConsoleGuessNo.exe.config
+D:\C# Learn\碁峯\ch03\ConsoleGuessNo\ConsoleGuessNo\bin\Debug\ConsoleGuessNo.exe
+D:\C# Learn\碁峯\ch03\ConsoleGuessNo\ConsoleGuessNo\bin\Debug\ConsoleGuessNo.pdb
+D:\C# Learn\碁峯\ch03\ConsoleGuessNo\ConsoleGuessNo\obj\Debug\ConsoleGuessNo.csproj.AssemblyReference.cache
+D:\C# Learn\碁峯\ch03\ConsoleGuessNo\ConsoleGuessNo\obj\Debug\ConsoleGuessNo.csproj.CoreCompileInputs.cache
+D:\C# Learn\碁峯\ch03\ConsoleGuessNo\ConsoleGuessNo\obj\Debug\ConsoleGuessNo.exe
+D:\C# Learn\碁峯\ch03\ConsoleGuessNo\ConsoleGuessNo\obj\Debug\ConsoleGuessNo.pdb
