@@ -1,0 +1,10 @@
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\obj\Debug\Multidimensional_Arrarys.csproj.AssemblyReference.cache
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\obj\Debug\Multidimensional_Arrarys.Form1.resources
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\obj\Debug\Multidimensional_Arrarys.Properties.Resources.resources
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\obj\Debug\Multidimensional_Arrarys.csproj.GenerateResource.cache
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\obj\Debug\Multidimensional_Arrarys.csproj.CoreCompileInputs.cache
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\bin\Debug\Multidimensional_Arrarys.exe.config
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\bin\Debug\Multidimensional_Arrarys.exe
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\bin\Debug\Multidimensional_Arrarys.pdb
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\obj\Debug\Multidimensional_Arrarys.exe
+D:\C# Learn\Multidimensional_Arrarys\Multidimensional_Arrarys\obj\Debug\Multidimensional_Arrarys.pdb
