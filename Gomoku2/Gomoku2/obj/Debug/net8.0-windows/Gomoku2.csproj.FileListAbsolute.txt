@@ -1,0 +1,17 @@
+D:\C# Learn\Gomoku2\Gomoku2\bin\Debug\net8.0-windows\Gomoku2.exe
+D:\C# Learn\Gomoku2\Gomoku2\bin\Debug\net8.0-windows\Gomoku2.deps.json
+D:\C# Learn\Gomoku2\Gomoku2\bin\Debug\net8.0-windows\Gomoku2.runtimeconfig.json
+D:\C# Learn\Gomoku2\Gomoku2\bin\Debug\net8.0-windows\Gomoku2.dll
+D:\C# Learn\Gomoku2\Gomoku2\bin\Debug\net8.0-windows\Gomoku2.pdb
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.Form1.resources
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.Properties.Resources.resources
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.csproj.GenerateResource.cache
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.AssemblyInfoInputs.cache
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.AssemblyInfo.cs
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.csproj.CoreCompileInputs.cache
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.dll
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\refint\Gomoku2.dll
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.pdb
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\Gomoku2.genruntimeconfig.cache
+D:\C# Learn\Gomoku2\Gomoku2\obj\Debug\net8.0-windows\ref\Gomoku2.dll
